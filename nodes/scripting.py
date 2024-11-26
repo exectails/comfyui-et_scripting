@@ -45,6 +45,3 @@ class ETPythonTextScript3Node:
             result = str(localVars["result"])
 
         return (result,)
-
-    def flatten(self, value: list) -> str:
-        return " ".join([str(s) for s in value])
