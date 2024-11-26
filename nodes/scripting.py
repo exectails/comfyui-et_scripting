@@ -32,7 +32,7 @@ class ETPythonTextScript3Node:
     RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("text",)
 
-    CATEGORY = "exectails"
+    CATEGORY = "exectails/Scripting"
     FUNCTION = "process"
 
     def process(self, script, arg0=None, arg1=None, arg2=None) -> tuple:
