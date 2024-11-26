@@ -9,6 +9,14 @@ about anything.
 **Do not use the custom nodes in this repository unless you know you can
 trust the source of the workflow.**
 
+Install
+-----------------------------------------------------------------------------
+
+Clone the repository into your ComfyUI custom_nodes directory.
+```text
+git clone https://github.com/exectails/comfyui-et_scripting
+```
+
 Nodes
 -----------------------------------------------------------------------------
 
